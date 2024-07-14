@@ -10,8 +10,9 @@ Advanced deep learning concepts and practical implementation techniques.
 Projects involving neural networks, machine learning algorithms, and deep learning research.
 
 📫 **How to Reach Me:**  
-[Mail](mailto:umarbalak35@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/umar-balak/)
+Mail me: [umarbalak35@gmail.com](mailto:umarbalak35@gmail.com)
+
+LinkedIn: [linkedin.com/in/umar-balak](https://www.linkedin.com/in/umar-balak/)
 
 ⚡ **Fun Fact:**  
 I can solve a Rubik's cube in **under 30 seconds** – watch out, speedcubers! 🧩✨
