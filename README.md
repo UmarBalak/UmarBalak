@@ -1,21 +1,21 @@
-# Hi, I’m Umar Balak
+# 👋 Hi, I'm Umar Balak
+🎯 **Interests:**
+Passionate about neural networks, deep learning, and crafting innovative deep learning models from the ground up.
 
-👀 **Interests:**  
-Neural networks, deep learning, and building deep learning models from scratch.
+📚 **Currently Expanding Knowledge On:**
+Mastering advanced deep learning concepts with a focus on practical, hands-on implementation.
 
-🌱 **Currently Learning:**  
-Advanced deep learning concepts and practical implementation techniques.
+🤝 **Open to Collaboration On:**
+Exciting projects in neural networks, machine learning algorithms, and pioneering deep learning research.
 
-💞️ **Looking to Collaborate On:**  
-Projects involving neural networks, machine learning algorithms, and deep learning research.
+📬 **Let's Connect:**
 
-📫 **How to Reach Me:**  
-Mail me: [umarbalak35@gmail.com](mailto:umarbalak35@gmail.com)
+Email: [umarbalak35@gmail.com](mailto:umarbalak35@gmail.com)
 
 LinkedIn: [linkedin.com/in/umar-balak](https://www.linkedin.com/in/umar-balak/)
 
-⚡ **Fun Fact:**  
-I can solve a Rubik's cube in **under 30 seconds** – watch out, speedcubers! 🧩✨
+⚡ **Fun Fact:**
+I can solve a Rubik's cube in under 30 seconds – challenge accepted, speedcubers! 🧠🔄
 
 <!---
 UmarBalak/UmarBalak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
