@@ -10,7 +10,7 @@
 
 💬 Ask me about Convolutional neural networks, federated learning, or how to architect and implement AI systems from scratch.
 
-📫 How to reach me: umarbalak35@gmail.com
+📫 How to reach me: [umarbalak35@gmail.com](mailto:umarbalak35@gmail.com)
 
 
 
