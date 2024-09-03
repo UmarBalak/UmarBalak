@@ -2,7 +2,7 @@
 ## Hi 👋, I'm Umar Balak
 **A passionate AI/ML developer who loves diving deep into neural networks and building models from scratch. I’m not just about algorithms—I’m about understanding each layer, each step, and each function. I’m a huge fan of TensorFlow, Python, open-source, and creating innovative solutions 🔍.**
 
-🔭 I’m currently working on **'AdaptFL,' a federated learning framework** focused on privacy and data diversity, using synthetic data in the CARLA simulation environment.
+🔭 I’m currently working on **AdaptFL, a federated learning framework** focused on privacy and data diversity, using synthetic data in the CARLA simulation environment.
 
 🌱 I’m currently learning advanced methods in privacy-preserving AI, data heterogeneity, and real-time training visualization.
 
