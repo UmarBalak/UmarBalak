@@ -1,22 +1,17 @@
-# 💫 About Me
 
-🔭 **Currently Working On:**  
-Developing 'AdaptFL,' a federated learning framework with a focus on privacy and data diversity, leveraging synthetic data in the CARLA simulation environment.
+## Hi 👋, I'm Umar Balak
+**A passionate AI/ML developer who loves diving deep into neural networks and building models from scratch. I’m not just about algorithms—I’m about understanding each layer, each step, and each function. I’m a huge fan of TensorFlow, Python, open-source, and creating innovative solutions 🔍.**
 
-👯 **Looking to Collaborate On:**  
-Advanced machine learning projects, particularly in deep learning, neural networks, and federated learning.
+🔭 I’m currently working on **'AdaptFL,' a federated learning framework** focused on privacy and data diversity, using synthetic data in the CARLA simulation environment.
 
-🤝 **Seeking Help With:**  
-Gathering diverse synthetic data to simulate various scenarios in federated learning environments.
+🌱 I’m currently learning advanced methods in privacy-preserving AI, data heterogeneity, and real-time training visualization.
 
-🌱 **Currently Learning:**  
-Exploring cutting-edge techniques in privacy-preserving AI, managing data heterogeneity, and real-time training visualization.
+👯 I’m looking to collaborate on cutting-edge machine learning projects, particularly those involving deep learning, neural networks, and federated learning.
 
-💬 **Ask Me About:**  
-Convolutional neural networks, federated learning, or how to architect and implement AI systems from scratch.
+💬 Ask me about Convolutional neural networks, federated learning, or how to architect and implement AI systems from scratch.
 
-⚡ **Fun Fact:**  
-I developed an AI-driven proctoring system that secured 1st place at the Quasar 2.0 Hackathon.
+📫 How to reach me: umarbalak35@gmail.com
+
 
 
 
