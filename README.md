@@ -12,6 +12,8 @@
 
 📫 How to reach me: [umarbalak35@gmail.com](mailto:umarbalak35@gmail.com)
 
+👨‍💻 All of my projects are available at [https://umarbalak.streamlit.app](https://umarbalak.streamlit.app)
+
 
 
 
