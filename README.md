@@ -2,15 +2,13 @@
 
 <h1 align="center">Hi, I'm Umar Balak</h2>
 
-**A passionate AI/ML developer who loves diving deep into neural networks and building models from scratch. I’m not just about algorithms—I’m about understanding each layer, each step, and each function. I’m a huge fan of TensorFlow, Python, open-source, and creating innovative solutions 🔍.**
+**I am a Software Developer with a focus on AI/ML and backend development.**
 
-🔭 I’m currently working on **AdaptFL, a federated learning framework** focused on privacy and data diversity, using synthetic data in the CARLA simulation environment.
+🚀 Passionate about building scalable AI models and high-performance backend systems.
 
-🌱 I’m currently learning advanced methods in privacy-preserving AI, data heterogeneity, and real-time training visualization.
+👯 Looking to collaborate on deep learning, neural networks, and backend development projects.
 
-👯 I’m looking to collaborate on cutting-edge machine learning projects, particularly those involving deep learning, neural networks, and federated learning.
-
-💬 Ask me about Convolutional neural networks, federated learning, or how to architect and implement AI systems from scratch.
+💬 Always happy to discuss **neural networks & backend engineering**!  
 
 📫 How to reach me: [umarbalak35@gmail.com](mailto:umarbalak35@gmail.com)
 
