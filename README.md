@@ -12,7 +12,7 @@
 
 📫 How to reach me: [umarbalak35@gmail.com](mailto:umarbalak35@gmail.com)
 
-👨‍💻 All of my projects are available at [https://folio-xi.vercel.app/](https://folio-xi.vercel.app/)
+👨‍💻 Check out my portfolio: [umarb.tech](https://www.umarb.tech)
 
 
 
