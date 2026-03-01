@@ -1,69 +1,67 @@
-# UMAR BALAK
-============
+UMAR BALAK
+===========
 
-Love building intelligent systems that scale.  
+Love building intelligent systems that scale.
 Exploring backend systems, cloud architecture, and Go for high-performance services.
 
----------------
+-------------------------
+
 Connect With Me
+• Portfolio    -> https://www.umarbalak.me
+• LinkedIn     -> https://linkedin.com/in/umar-balak/
+• X            -> https://x.com/Umar_Balak
+• Medium       -> https://medium.com/@UmarBalak
+• Email        -> umarbalak35@gmail.com
 
-• Portfolio   → https://www.umarbalak.me  
-• LinkedIn    → https://linkedin.com/in/umar-balak/  
-• X           → https://x.com/Umar_Balak  
-• Medium      → https://medium.com/@UmarBalak  
-• Email       → umarbalak35@gmail.com  
+-------------------------
 
-----------
 Focused On
+• Classical Machine Learning
+• Deep Learning & Generative AI
+• Federated Learning & Privacy-Preserving Systems
+• Distributed Backend Architecture
+• Databases & Cloud Infrastructure
 
-• Classical Machine Learning  
-• Deep Learning & Generative AI  
-• Federated Learning & Privacy-Preserving Systems  
-• Distributed Backend Architecture  
-• Databases & Cloud Infrastructure  
+-------------------------
 
---------------
 Skills & Tools
+AI & ML           -> Python, PyTorch, TensorFlow, Keras
+                     Scikit-learn, NumPy, Pandas, OpenCV
 
-• AI & ML:  
-  Python, PyTorch, TensorFlow, Keras, Scikit-learn, NumPy, Pandas, OpenCV  
+Backend           -> FastAPI, REST APIs, Async Systems
+                     System Design, Go (learning)
 
-• Backend:  
-  FastAPI, REST APIs, Async Systems, Go (learning), System Design  
+Databases         -> PostgreSQL, MySQL, MS SQL Server, Pinecone
 
-• Databases:  
-  PostgreSQL, MySQL, MS SQL Server, Pinecone  
+DevOps & Cloud    -> Docker, Linux, Git, Azure, Render, Vercel, Google Cloud
 
-• DevOps & Cloud:  
-  Docker, Linux, Git, Azure, Render, Vercel, Google Cloud  
+-------------------------
 
--------------
 Selected Work
+• Collaborative RAG Learning Platform
+  Description  -> SaaS platform enabling peer-reviewed AI knowledge base
+  Link         -> https://cognifyhub.vercel.com
+  Tech         -> Next.js, FastAPI, LangChain, Pinecone
 
-• Collaborative RAG Learning Platform  
-  • A SaaS platform enabling students and researchers to build a peer-reviewed, AI-powered knowledge base from shared academic content.  
-  • Links: https://cognifyhub.vercel.com  
-  • Tech: Next.js, FastAPI, LangChain, Pinecone  
+• Federated Learning Framework
+  Description  -> Decentralized model training with privacy & secure aggregation
+  Link         -> https://github.com/UmarBalak/adaptfl_client
+  Tech         -> TensorFlow, Differential Privacy, FastAPI
 
-• Federated Learning Framework  
-  • A production-focused federated learning framework enabling decentralized model training with differential privacy and secure aggregation research.  
-  • Links: https://github.com/UmarBalak/adaptfl_client  
-  • Tech: TensorFlow, Differential Privacy, FastAPI  
+• Image Classification Model
+  Description  -> Optimized VGG16-based architecture for CIFAR-10
+  Link         -> https://github.com/UmarBalak/Cifar10_VGG
+  Tech         -> TensorFlow, CNN
 
-• Image Classification Model  
-  • Optimized VGG16-based architecture for CIFAR-10 with efficiency-focused design.  
-  • Links: https://github.com/UmarBalak/Cifar10_VGG  
-  • Tech: TensorFlow, CNN  
+-------------------------
 
-------------------
-Currently Building  
+Currently Building
+• AI infrastructure for scalable model deployment
+• Data pipelines for distributed systems
+• Cloud-native backend services in Go
 
-• AI infrastructure for scalable model deployment  
-• Data pipelines for distributed systems  
-• Cloud-native backend services in Go  
+-------------------------
 
---------------------------
-Thanks for stopping by! :)
-
-If you are building in AI, distributed systems, or backend engineering,  
+Thanks for stopping by!
+If you are building in AI, distributed systems, or backend engineering,
 let’s connect and build something meaningful.
