@@ -4,27 +4,27 @@ UMAR BALAK
 Love building intelligent systems that scale.
 Exploring backend systems, cloud architecture, and Go for high-performance services.
 
--------------------------
-
+---------------
 Connect With Me
+
 • Portfolio    -> https://www.umarbalak.me
 • LinkedIn     -> https://linkedin.com/in/umar-balak/
 • X            -> https://x.com/Umar_Balak
 • Medium       -> https://medium.com/@UmarBalak
 • Email        -> umarbalak35@gmail.com
 
--------------------------
-
+----------
 Focused On
+
 • Classical Machine Learning
 • Deep Learning & Generative AI
 • Federated Learning & Privacy-Preserving Systems
 • Distributed Backend Architecture
 • Databases & Cloud Infrastructure
 
--------------------------
-
+--------------
 Skills & Tools
+
 AI & ML           -> Python, PyTorch, TensorFlow, Keras
                      Scikit-learn, NumPy, Pandas, OpenCV
 
@@ -35,9 +35,9 @@ Databases         -> PostgreSQL, MySQL, MS SQL Server, Pinecone
 
 DevOps & Cloud    -> Docker, Linux, Git, Azure, Render, Vercel, Google Cloud
 
--------------------------
-
+-------------
 Selected Work
+
 • Collaborative RAG Learning Platform
   Description  -> SaaS platform enabling peer-reviewed AI knowledge base
   Link         -> https://cognifyhub.vercel.com
@@ -53,15 +53,15 @@ Selected Work
   Link         -> https://github.com/UmarBalak/Cifar10_VGG
   Tech         -> TensorFlow, CNN
 
--------------------------
-
+------------------
 Currently Building
+
 • AI infrastructure for scalable model deployment
 • Data pipelines for distributed systems
 • Cloud-native backend services in Go
 
--------------------------
-
+-----------------------
 Thanks for stopping by!
+
 If you are building in AI, distributed systems, or backend engineering,
 let’s connect and build something meaningful.
