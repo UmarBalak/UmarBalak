@@ -38,6 +38,11 @@ DevOps & Cloud    -> Docker, Linux, Git, Azure, Render, Vercel, Google Cloud
 -------------
 Selected Work
 
+• VanillaNets
+  Description  -> Transparent, NumPy-only neural network library for learning & experimentation
+  Link         -> https://pypi.org/project/vanillanets/
+  Tech         -> NumPy, Python, Neural Networks, From-Scratch Implementation
+
 • Collaborative RAG Learning Platform
   Description  -> SaaS platform enabling peer-reviewed AI knowledge base
   Link         -> https://cognify.cohernt.xyz
